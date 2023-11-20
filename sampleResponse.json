@@ -1,0 +1,41 @@
+{
+  "current": {
+    "cloud": 75,
+    "condition": {
+      "code": 1003,
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+      "text": "Partly cloudy"
+    },
+    "feelslike_c": 12.1,
+    "feelslike_f": 53.8,
+    "gust_kph": 33.8,
+    "gust_mph": 21,
+    "humidity": 72,
+    "is_day": 1,
+    "last_updated": "2023-11-19 12:15",
+    "last_updated_epoch": 1700396100,
+    "precip_in": 0,
+    "precip_mm": 0.01,
+    "pressure_in": 29.71,
+    "pressure_mb": 1006,
+    "temp_c": 14,
+    "temp_f": 57.2,
+    "uv": 3,
+    "vis_km": 10,
+    "vis_miles": 6,
+    "wind_degree": 250,
+    "wind_dir": "WSW",
+    "wind_kph": 33.1,
+    "wind_mph": 20.6
+  },
+  "location": {
+    "country": "United Kingdom",
+    "lat": 51.52,
+    "localtime": "2023-11-19 12:31",
+    "localtime_epoch": 1700397067,
+    "lon": -0.11,
+    "name": "London",
+    "region": "City of London, Greater London",
+    "tz_id": "Europe/London"
+  }
+}
