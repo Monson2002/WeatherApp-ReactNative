@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "icon": "./assets/SimpleSky.png",
+    "icon": "./assets/SimpleSkyIcon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -20,7 +20,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/SimpleSkyIcon.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.monson2002.simplesky"
