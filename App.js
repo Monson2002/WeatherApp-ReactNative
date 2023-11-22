@@ -57,7 +57,6 @@ export default function App() {
       setWeather(data);
       setLoading(false);
     })
-    
   }
 
   const handleTextDebounce = useCallback(debounce(handleSearch, 200), []);
@@ -153,7 +152,7 @@ export default function App() {
               {/* degree celcius */}
               <View className="space-y-2">
                 <Text className="text-center font-bold text-white text-6xl ml-5">
-                  {current?.temp_c}&#176;
+                  {current?.temp_c}&#176; <Text className="text-4xl">C</Text>
                 </Text>
                 <Text className="text-center text-white text-xl tracking-widest">
                   {current?.condition?.text}
